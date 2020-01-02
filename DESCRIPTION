@@ -13,3 +13,5 @@ LinkingTo: Rcpp
 RoxygenNote: 7.0.2
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
+URL:https://github.com/SC19019/SC19019
+BugReports:https://github.com/SC19019/SC19019/issues
